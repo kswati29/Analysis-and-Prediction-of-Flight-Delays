@@ -1,4 +1,4 @@
-Analysis and Prediction of Flight Delays
+**Analysis and Prediction of Flight Delays**
 
 This project report evaluates the effects of various attributes of a flight lifecycle (air journey from point A to B) towards the performance (on-time or delay). 
 The report is data-backed with python based code employing exploratory analysis and modeling. 
